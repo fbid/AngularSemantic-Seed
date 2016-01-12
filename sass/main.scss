@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+// General
+
+.foo{
+  text-align:center;
+}
+
+.intro.main-wrapper{
+  display:table;
+  height:100vh;
+  width:100%;
+
+  .middle{
+    display:table-cell;
+    vertical-align: middle;
+  }
+}

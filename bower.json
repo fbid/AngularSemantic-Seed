@@ -1,0 +1,17 @@
+{
+  "name": "angularfilters",
+  "description": "",
+  "main": "js/app.js",
+  "authors": [
+    "_"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular": "~1.4.7"
+  },
+  "install": {
+    "path": "libs/"
+  }
+}
